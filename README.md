@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWGcZ-WhSgxmuMCqbK_A5LQmCNULumVWzjxg&s)]
+
 <h1 align="center">Hi 👋, I'm Taiwo Fasanya</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
