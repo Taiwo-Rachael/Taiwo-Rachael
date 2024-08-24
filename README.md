@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🌱 I'm proficient in the use of **Python, SQL, Power BI and MS Excel**
 
-- 🌱 With growing interest and skills in **Machine Learning and Artificial Intelligence**
+- 🌱 With skills and hands-on experience in **Machine Learning and Artificial Intelligence**
 
 - 📫 You can reach out to me via **fasanyataiworachel@gmail.com**
 
