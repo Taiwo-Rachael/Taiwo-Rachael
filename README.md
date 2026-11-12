@@ -19,7 +19,7 @@
 
 ### 👋 About me
 
-<p align="justify">I build data and AI systems that power digital banking: reporting that drives decisions, screening that catches abnormal transactions, pipelines that ensure seamless data movement and availability, and automation that keeps the business running.</p>
+<p align="justify">I build data and AI systems that power digital banking: reporting that drives decisions, screenings that catch abnormal transactions, pipelines that ensure seamless data movement and availability, and automation that keeps the business running.</p>
 
 - 📊 **From notebook to production:** I ship AI models that scale
 - 🔁 **Data pipelines:** Built and manage Airflow pipelines that move data reliably across 20+ services into a data warehouse
